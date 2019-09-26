@@ -1,0 +1,6 @@
+C:\Users\311066\source\repos\Drivemanager\bin\Release\Drivemanager.exe.config
+C:\Users\311066\source\repos\Drivemanager\bin\Release\Drivemanager.exe
+C:\Users\311066\source\repos\Drivemanager\bin\Release\Drivemanager.pdb
+C:\Users\311066\source\repos\Drivemanager\obj\Release\Drivemanager.csproj.CoreCompileInputs.cache
+C:\Users\311066\source\repos\Drivemanager\obj\Release\Drivemanager.exe
+C:\Users\311066\source\repos\Drivemanager\obj\Release\Drivemanager.pdb
